@@ -19,9 +19,20 @@ import ArrowBackIcon from "@mui/icons-material/ArrowBack";
 import SaveIcon from "@mui/icons-material/Save";
 
 export default function Administrator() {
-  const [jsonData, setJsonData] = useState(data);
+  const [jsonData, setJsonData] = useState<any>(data);
 
-  console.log("jsonData: ", jsonData);
+  // Accessing each item in the array (categorical name of items)
+  //then accessing each item and pushing it into the array.
+  const dataArray = [];
+
+  for (const key in jsonData) {
+    const arrayData = jsonData[key];
+    for (const item of arrayData) {
+      dataArray.push(item);
+    }
+  }
+
+  console.log("dataArray: ", dataArray);
 
   return (
     <ThemeProvider theme={muiTheme}>
@@ -67,7 +78,7 @@ export default function Administrator() {
             scrollBehavior: "smooth",
           }}
         >
-          {jsonData.map((section, sectionIndex) => (
+          {dataArray.map((section: any, sectionIndex: number) => (
             <Accordion key={section.Name}>
               <AccordionSummary expandIcon={<ExpandMoreIcon />}>
                 <Typography>{section.Name}</Typography>

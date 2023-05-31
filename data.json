@@ -1,186 +1,197 @@
-[
-  {
-    "Name": "Road Ranger, Odessa, TX",
-    "Enabled": true,
-    "IPAddress": "192.168.71.156",
-    "Port": "6144",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "Road Ranger, Waco, TX",
-    "Enabled": true,
-    "IPAddress": "192.168.76.156",
-    "Port": "6144",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "Road Ranger, Moore, TX",
-    "Enabled": true,
-    "IPAddress": "192.168.70.156",
-    "Port": "6144",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "Road Ranger, Combes, TX",
-    "Enabled": true,
-    "IPAddress": "192.168.73.156",
-    "Port": "6144",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "Road Ranger, Encinal, TX",
-    "Enabled": true,
-    "IPAddress": "192.168.72.156",
-    "Port": "6144",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "Road Ranger, Sonora, TX",
-    "Enabled": true,
-    "IPAddress": "192.168.75.156",
-    "Port": "6144",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "The Texan, Schulenburg",
-    "Enabled": true,
-    "IPAddress": "",
-    "Port": "",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "The Texan, Monahan's",
-    "Enabled": true,
-    "IPAddress": "",
-    "Port": "",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "The Texan, Goliad",
-    "Enabled": true,
-    "IPAddress": "",
-    "Port": "",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "The Texan, Victoria #2",
-    "Enabled": true,
-    "IPAddress": "",
-    "Port": "",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "The Texan, Victoria #1",
-    "Enabled": true,
-    "IPAddress": "104.243.15.2",
-    "Port": "6144",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "The Texan Cuero, TX",
-    "Enabled": true,
-    "IPAddress": "107.128.6.46",
-    "Port": "6144",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "New Distributing",
-    "Enabled": true,
-    "IPAddress": "208.180.235.200",
-    "Port": "6144",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "Bucky\u0027s Express, Nassau Bay",
-    "Enabled": true,
-    "IPAddress": "96.68.101.41",
-    "Port": "6144",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "Pleasanton",
-    "Enabled": true,
-    "IPAddress": "38.103.218.250",
-    "Port": "6144",
-    "Emails": ["gcarrizales@llitransport.com"],
-    "Notes": ""
-  },
-  {
-    "Name": "Coffee Cup, Add",
-    "Enabled": true,
-    "IPAddress": "65.156.159.42",
-    "Port": "6145",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "Coffee Cup, Bio",
-    "Enabled": true,
-    "IPAddress": "65.156.159.42",
-    "Port": "6144",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "Tex Best, New Braunfels",
-    "Enabled": true,
-    "IPAddress": "198.45.150.161",
-    "Port": "6144",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "Tex Best, Pleasanton",
-    "Enabled": true,
-    "IPAddress": "",
-    "Port": "",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "Tex Best, Elmendorf",
-    "Enabled": true,
-    "IPAddress": "",
-    "Port": "",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "Tex Best, Jourdanton",
-    "Enabled": true,
-    "IPAddress": "",
-    "Port": "",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "Tex Best, Uvalde",
-    "Enabled": true,
-    "IPAddress": "",
-    "Port": "",
-    "Emails": [],
-    "Notes": ""
-  },
-  {
-    "Name": "Fontana Truck Stop",
-    "Enabled": true,
-    "IPAddress": "64.60.60.242",
-    "Port": "6144",
-    "Emails": [],
-    "Notes": "POC - Abbott @ 951-538-2512"
-  }
-]
+{
+  "Road Ranger": [
+    {
+      "Name": "Road Ranger, Odessa, TX",
+      "Enabled": true,
+      "IPAddress": "192.168.71.156",
+      "Port": "6144",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Road Ranger, Waco, TX",
+      "Enabled": true,
+      "IPAddress": "192.168.76.156",
+      "Port": "6144",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Road Ranger, Moore, TX",
+      "Enabled": true,
+      "IPAddress": "192.168.70.156",
+      "Port": "6144",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Road Ranger, Combes, TX",
+      "Enabled": true,
+      "IPAddress": "192.168.73.156",
+      "Port": "6144",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Road Ranger, Encinal, TX",
+      "Enabled": true,
+      "IPAddress": "192.168.72.156",
+      "Port": "6144",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Road Ranger, Sonora, TX",
+      "Enabled": true,
+      "IPAddress": "192.168.75.156",
+      "Port": "6144",
+      "Emails": [],
+      "Notes": ""
+    }
+  ],
+  "The Texan": [
+    {
+      "Name": "The Texan, Schulenburg",
+      "Enabled": true,
+      "IPAddress": "",
+      "Port": "",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "The Texan, Monahan's",
+      "Enabled": true,
+      "IPAddress": "",
+      "Port": "",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "The Texan, Goliad",
+      "Enabled": true,
+      "IPAddress": "",
+      "Port": "",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "The Texan, Victoria #2",
+      "Enabled": true,
+      "IPAddress": "",
+      "Port": "",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "The Texan, Victoria #1",
+      "Enabled": true,
+      "IPAddress": "104.243.15.2",
+      "Port": "6144",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "The Texan Cuero, TX",
+      "Enabled": true,
+      "IPAddress": "107.128.6.46",
+      "Port": "6144",
+      "Emails": [],
+      "Notes": ""
+    }
+  ],
+  "Other": [
+    {
+      "Name": "New Distributing",
+      "Enabled": true,
+      "IPAddress": "208.180.235.200",
+      "Port": "6144",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Bucky\u0027s Express, Nassau Bay",
+      "Enabled": true,
+      "IPAddress": "96.68.101.41",
+      "Port": "6144",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Pleasanton",
+      "Enabled": true,
+      "IPAddress": "38.103.218.250",
+      "Port": "6144",
+      "Emails": ["gcarrizales@llitransport.com"],
+      "Notes": ""
+    },
+    {
+      "Name": "Fontana Truck Stop",
+      "Enabled": true,
+      "IPAddress": "64.60.60.242",
+      "Port": "6144",
+      "Emails": [],
+      "Notes": "POC - Abbott @ 951-538-2512"
+    }
+  ],
+  "Coffee Cup": [
+    {
+      "Name": "Coffee Cup, Add",
+      "Enabled": true,
+      "IPAddress": "65.156.159.42",
+      "Port": "6145",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Coffee Cup, Bio",
+      "Enabled": true,
+      "IPAddress": "65.156.159.42",
+      "Port": "6144",
+      "Emails": [],
+      "Notes": ""
+    }
+  ],
+
+  "Tex Best": [
+    {
+      "Name": "Tex Best, New Braunfels",
+      "Enabled": true,
+      "IPAddress": "198.45.150.161",
+      "Port": "6144",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Tex Best, Pleasanton",
+      "Enabled": true,
+      "IPAddress": "",
+      "Port": "",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Tex Best, Elmendorf",
+      "Enabled": true,
+      "IPAddress": "",
+      "Port": "",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Tex Best, Jourdanton",
+      "Enabled": true,
+      "IPAddress": "",
+      "Port": "",
+      "Emails": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Tex Best, Uvalde",
+      "Enabled": true,
+      "IPAddress": "",
+      "Port": "",
+      "Emails": [],
+      "Notes": ""
+    }
+  ]
+}
