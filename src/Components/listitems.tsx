@@ -22,7 +22,7 @@ export const mainListItems = (
       </ListItemIcon>
       <ListItemText primary="Dashboard" />
     </ListItemButton>
-    <ListItemButton href="http://65.156.159.42:6144/">
+    <ListItemButton href="/Bioblenders">
       <ListItemIcon>
         <GasMeterIcon />
       </ListItemIcon>
